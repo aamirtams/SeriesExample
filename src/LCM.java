@@ -18,8 +18,5 @@ public class LCM {
                 flag = 1;
             }
         }
-
-
-
     }
 }

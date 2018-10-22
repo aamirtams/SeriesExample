@@ -10,7 +10,7 @@ public class SeriesExample15 {
         int i = 1;
         while (n>0){
             if (isPrime(i)){
-                System.out.print((int) (Math.pow(i,2)) + " ");
+                System.out.print(i*i + " ");
                 n--;
             }
             i++;
